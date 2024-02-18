@@ -16,7 +16,9 @@
 | :------------ | :----------- | :----------- | :----------- |
 | Iced-Latte | 2023 | FrontEnd Developer | Next js ,TypeScript ,Zustand ,Axios |
 
-
+ <p align="center"> Social links
+ <p align="center">- [Linkedin](https://www.linkedin.com/in/dmitriy-ushkvarok/)
+ <p align="center">- [Telegram](https://t.me/Dmitriy_Ushkvarok)
 
 🔨 Skills
  
@@ -46,12 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Skills" align="left" width="60" height="80"/> 
-
-<br><br><br><br>
-
-  Social links
- <p align="center">- [Linkedin](https://www.linkedin.com/in/dmitriy-ushkvarok/)
- <p align="center">- [Telegram](https://t.me/Dmitriy_Ushkvarok)
 
 <br><br><br>
 
