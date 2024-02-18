@@ -1,6 +1,6 @@
 
 <p align="center"># 🏠 Hello👋, my name is Dmitriy</p>
-### Frontend developer from Ukraine
+<p align="center">### Frontend developer from Ukraine
 
 
 
