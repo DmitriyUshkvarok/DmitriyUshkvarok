@@ -4,21 +4,21 @@
 
 
 
-## 💡 About Me
+💡 About Me
 
 - 📖 I`m learning React, Next.js, Node.js, TypeScript
 - 🎮 My hobbies are biking , walking , swimming swimming , programming
 - 💌 You can write to me at dmitriy.ushkvarok@gmail.com
 - 😽 I have pet cats Stjopa and Arthur
 
-## 💻 Work Experience
+ 💻 Work Experience
 | Company | Years | Position | Stack |
 | :------------ | :----------- | :----------- | :----------- |
 | Iced-Latte | 2023 | FrontEnd Developer | Next js ,TypeScript ,Zustand ,Axios |
 
 
 
-## 🔨 Skills
+🔨 Skills
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="60" height="80"/>  
@@ -49,13 +49,13 @@
 
 <br><br><br>
 
- 📰 Social links
+  Social links
  - [Linkedin](https://www.linkedin.com/in/dmitriy-ushkvarok/)
  - [Telegram](https://t.me/Dmitriy_Ushkvarok)
 
 <br><br><br>
 
- - <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyUshkvarok&layout=compact&hide_title=1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500" alt="Top language used in my repos" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyUshkvarok&layout=compact&hide_title=1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500" alt="Top language used in my repos" />
 
 
 
