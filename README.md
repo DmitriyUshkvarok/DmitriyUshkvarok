@@ -45,9 +45,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="40" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Skills" align="left" width="40" height="60"/> 
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyUshkvarok&layout=compact&hide_title=1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=500" alt="Top language used in my repos" align="left"/>
+
+<br><br><br><br><br><br>
 
  <p align="center"> Social links
  <p align="center">- [Linkedin](https://www.linkedin.com/in/dmitriy-ushkvarok/)
