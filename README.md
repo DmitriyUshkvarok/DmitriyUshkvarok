@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Skills" align="left" width="40" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Skills" align="left" width="40" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Skills" align="left" width="40" height="60"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Skills" align="left" width="40" height="60"/>  
+<img src="https://plugins.jetbrains.com/files/15260/101377/icon/pluginIcon.png" alt="Skills" align="left" width="40" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Skills" align="left" width="40" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Skills" align="left" width="40" height="60"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" align="left" width="40" height="60"/>  
