@@ -47,10 +47,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 
+<br><br><br><br>
 
   Social links
- - [Linkedin](https://www.linkedin.com/in/dmitriy-ushkvarok/)
- - [Telegram](https://t.me/Dmitriy_Ushkvarok)
+ <p align="center">- [Linkedin](https://www.linkedin.com/in/dmitriy-ushkvarok/)
+ <p align="center">- [Telegram](https://t.me/Dmitriy_Ushkvarok)
 
 <br><br><br>
 
