@@ -55,7 +55,7 @@
 
  <img src="https://github-readme-stats.vercel.app/api?username=DmitriyUshkvarok&show_icons=true&locale=en" alt="GitHub stats"/>
  
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
  <p align="center"> Social links
  <p align="center">- [Linkedin](https://www.linkedin.com/in/dmitriy-ushkvarok/)
