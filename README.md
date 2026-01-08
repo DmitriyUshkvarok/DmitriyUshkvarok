@@ -77,9 +77,10 @@
 
 <div align="center">
 
-| Company        | Years | Position           | Stack                               |
-| :------------- | :---- | :----------------- | :---------------------------------- |
-| **Iced-Latte** | 2023  | Frontend Developer | Next.js, TypeScript, Zustand, Axios |
+| Company        | Years             | Position            | Stack                                    |
+| :------------- | :---------------- | :------------------ | :--------------------------------------- |
+| **Praetorix**  | 08.2024 - Present | Fullstack Developer | Next.js, Nest.js, PostgreSQL, TypeScript |
+| **Iced-Latte** | 2023              | Frontend Developer  | Next.js, TypeScript, Zustand, Axios      |
 
 </div>
 
@@ -93,6 +94,18 @@
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitriyUshkvarok&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DmitriyUshkvarok&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitriyUshkvarok&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br />
